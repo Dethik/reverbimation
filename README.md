@@ -57,6 +57,7 @@ A media player application that allows a user to kick back, relax, and favorite 
 > Zack Rutledge &copy; 2021
 
 ---
+
 ## Contact Information
 
 * _Contact Zack via [Email](mailto:thorgrim88@gmail.com) or [LinkedIn](https://www.linkedin.com/in/zack-rutledge762/), or check out his [Github](https://github.com/Dethik)._
