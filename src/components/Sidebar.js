@@ -137,7 +137,6 @@ const CSS = css`
       background-color: purple;
       color: white;
       padding: 12.5px 30px;
-      border-radius: 25px;
       text-transform: uppercase;
       font-weight: bold;
       font-size: 13px;

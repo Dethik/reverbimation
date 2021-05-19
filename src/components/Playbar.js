@@ -35,12 +35,10 @@ const Playbar = () => {
         {song && (
           <>
             <div>{song.title}</div>
-
             <div className="artist">{song.artist}</div>
           </>
         )}
       </div>
-
       <div className="middle">
         <div className="play-pause-circle" onClick={playOrPause}>
           <i
@@ -48,10 +46,8 @@ const Playbar = () => {
             style={{ transform: state.playing ? '' : 'translateX(1.5px)' }}
           />
         </div>
-
         <div style={{ marginTop: 2.5 }}>
           <span>{formatTime(Math.floor(state.currentTime))}</span>
-
           <div className="progress-container">
             <div
               className="bar"
@@ -60,14 +56,11 @@ const Playbar = () => {
               }}
             />
           </div>
-
           <span>{formatTime(state.duration)}</span>
         </div>
       </div>
-
       <div className="right">
         <i className="fa fa-volume-up" />
-
         <input
           type="range"
           min="0"
