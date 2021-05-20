@@ -5,7 +5,7 @@
 [Epicodus](https://www.epicodus.com/) - [React](https://www.learnhowtoprogram.com/ruby-and-rails/)
 
 #### Date created: 05/08/2021
-#### Date last Modified: 05/18/2021
+#### Date last Modified: 05/20/2021
 ---
 
 ## Technologies Used
@@ -50,7 +50,12 @@ A media player application that allows a user to kick back, relax, and favorite 
 
 ---
 
-## License
+## Notes
+
+The MOCK-DATA.json contains unique hex-keys to add your own MP3's if you so desire.
+The Templates folder contains a component template that is used to create new ones for expanded functionality.
+
+---
 
 ## License
 > [GPLv3](https://choosealicense.com/licenses/gpl-3.0/)\
