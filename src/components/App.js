@@ -18,9 +18,7 @@ const GlobalCSS = css`
     font-family: 'Signika', sans-serif;
   }
 
-  html,
-  body,
-  .app {
+  html, body, .app {
     margin: 0;
     height: 100%;
     width: 100%;

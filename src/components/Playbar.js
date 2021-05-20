@@ -103,8 +103,7 @@ const CSS = css`
     flex-direction: column;
     align-items: center;
 
-    .fa-play,
-    .fa-pause {
+    .fa-play, .fa-pause {
       font-size: 14px;
     }
 
